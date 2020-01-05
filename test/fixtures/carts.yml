@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  subtotal: 9.99
+  tax: 9.99
+  discount: 9.99
+  total: 9.99
+  status: 1
+
+two:
+  user: two
+  subtotal: 9.99
+  tax: 9.99
+  discount: 9.99
+  total: 9.99
+  status: 1
